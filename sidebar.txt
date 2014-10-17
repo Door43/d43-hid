@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hid:home|Door43 (hid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hid|d43-hid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hid/archive/master.zip|d43-hid.zip]]
+
+**Recent Changes**
+{{changes>ns = hid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hid|Ethnologue data]]
+
